@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FruitSlicer : MonoBehaviour
+public class Slicer : MonoBehaviour
 {
     [Header("Shader Settings")]
     [Range(-1f, 1f)] 
