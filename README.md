@@ -6,11 +6,9 @@
   <img src="https://img.youtube.com/vi/IGzDsBVwsAA/maxresdefault.jpg" width="100%">
 </a>
 
-<p align="center">
-  <a href="www.youtube.com/watch?v=IGzDsBVwsAA">
-    <img src="https://img.shields.io/badge/▶%20CLICK%20TO%20WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.youtube.com/watch?v=IGzDsBVwsAA">
+  <img src="https://img.shields.io/badge/▶%20CLICK%20TO%20WATCH%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
